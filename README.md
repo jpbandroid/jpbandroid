@@ -4,7 +4,7 @@
 **jpbandroid/jpbandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am an Android and Windows app developer, who made several projects such as UTE UWP+ or jpbROM, and I'm also a member of the Ivirius Team and Rebound Team.<br>
+I am an Android and Windows app developer, who made several projects such as UTE UWP+ or jpbROM, and I'm also a member of the Ivirius Team/Rebound Team.<br>
 I mostly code in Python, Java, Kotlin and C#.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jpbandroid&theme=windows-dark&type=png)](https://git.io/streak-stats)
