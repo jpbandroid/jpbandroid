@@ -8,6 +8,5 @@ I am an Android and Windows app developer, who made several projects such as UTE
 I mostly code in Python, Java, Kotlin and C#.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jpbandroid&theme=windows-dark)](https://git.io/streak-stats)
-[![jpbandroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpbandroid)](https://github.com/jpbandroid/jpbandroid/)<br>
-[![Top Languages (full)](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbandroid)](https://github.com/jpbandroid/jpbandroid/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbandroid&layout=donut-vertical)](https://github.com/jpbandroid)
+[![jpbandroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpbandroid\&include_all_commits=true)](https://github.com/jpbandroid/jpbandroid/)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbandroid&layout=compact)](https://github.com/jpbandroid)
